@@ -6,7 +6,10 @@
 
   <ItemGroup>
     <Folder Include="Configurations\" />
-    <Folder Include="Persistence\Repositories\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibrary1\CleanArchitecture.Core.csproj" />
   </ItemGroup>
 
 </Project>

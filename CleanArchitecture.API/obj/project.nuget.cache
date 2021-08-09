@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "fkwM87rnFQaFCu8LNolLYJfXqFPWjRxDbKC6kquaTCRlLNx6Qr1xM7V1N+Sw10jNXGPc0qz012RX+lVtr553Zw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\w.martins.de.freitas\\source\\repos\\CleanArchiteture\\CleanArchitecture.API\\CleanArchitecture.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\w.martins.de.freitas\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\w.martins.de.freitas\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\w.martins.de.freitas\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\w.martins.de.freitas\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\w.martins.de.freitas\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\w.martins.de.freitas\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

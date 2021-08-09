@@ -1,0 +1,15 @@
+C:\Users\w.martins.de.freitas\source\repos\CleanArchiteture\CleanArchtecture.Application\bin\Debug\net5.0\CleanArchtecture.Application.deps.json
+C:\Users\w.martins.de.freitas\source\repos\CleanArchiteture\CleanArchtecture.Application\bin\Debug\net5.0\CleanArchtecture.Application.dll
+C:\Users\w.martins.de.freitas\source\repos\CleanArchiteture\CleanArchtecture.Application\bin\Debug\net5.0\ref\CleanArchtecture.Application.dll
+C:\Users\w.martins.de.freitas\source\repos\CleanArchiteture\CleanArchtecture.Application\bin\Debug\net5.0\CleanArchtecture.Application.pdb
+C:\Users\w.martins.de.freitas\source\repos\CleanArchiteture\CleanArchtecture.Application\bin\Debug\net5.0\CleanArchitecture.Core.dll
+C:\Users\w.martins.de.freitas\source\repos\CleanArchiteture\CleanArchtecture.Application\bin\Debug\net5.0\CleanArchitecture.Core.pdb
+C:\Users\w.martins.de.freitas\source\repos\CleanArchiteture\CleanArchtecture.Application\obj\Debug\net5.0\CleanArchtecture.Application.csproj.AssemblyReference.cache
+C:\Users\w.martins.de.freitas\source\repos\CleanArchiteture\CleanArchtecture.Application\obj\Debug\net5.0\CleanArchtecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w.martins.de.freitas\source\repos\CleanArchiteture\CleanArchtecture.Application\obj\Debug\net5.0\CleanArchtecture.Application.AssemblyInfoInputs.cache
+C:\Users\w.martins.de.freitas\source\repos\CleanArchiteture\CleanArchtecture.Application\obj\Debug\net5.0\CleanArchtecture.Application.AssemblyInfo.cs
+C:\Users\w.martins.de.freitas\source\repos\CleanArchiteture\CleanArchtecture.Application\obj\Debug\net5.0\CleanArchtecture.Application.csproj.CoreCompileInputs.cache
+C:\Users\w.martins.de.freitas\source\repos\CleanArchiteture\CleanArchtecture.Application\obj\Debug\net5.0\CleanArchtecture.Application.csproj.CopyComplete
+C:\Users\w.martins.de.freitas\source\repos\CleanArchiteture\CleanArchtecture.Application\obj\Debug\net5.0\CleanArchtecture.Application.dll
+C:\Users\w.martins.de.freitas\source\repos\CleanArchiteture\CleanArchtecture.Application\obj\Debug\net5.0\ref\CleanArchtecture.Application.dll
+C:\Users\w.martins.de.freitas\source\repos\CleanArchiteture\CleanArchtecture.Application\obj\Debug\net5.0\CleanArchtecture.Application.pdb

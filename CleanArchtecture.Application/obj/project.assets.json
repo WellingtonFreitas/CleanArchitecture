@@ -17,8 +17,8 @@
   "libraries": {
     "CleanArchitecture.Core/1.0.0": {
       "type": "project",
-      "path": "../ClassLibrary1/CleanArchitecture.Core.csproj",
-      "msbuildProject": "../ClassLibrary1/CleanArchitecture.Core.csproj"
+      "path": "../CleanArchitecture.Core/CleanArchitecture.Core.csproj",
+      "msbuildProject": "../CleanArchitecture.Core/CleanArchitecture.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -63,8 +63,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\w.martins.de.freitas\\source\\repos\\CleanArchiteture\\ClassLibrary1\\CleanArchitecture.Core.csproj": {
-              "projectPath": "C:\\Users\\w.martins.de.freitas\\source\\repos\\CleanArchiteture\\ClassLibrary1\\CleanArchitecture.Core.csproj"
+            "C:\\Users\\w.martins.de.freitas\\source\\repos\\CleanArchiteture\\CleanArchitecture.Core\\CleanArchitecture.Core.csproj": {
+              "projectPath": "C:\\Users\\w.martins.de.freitas\\source\\repos\\CleanArchiteture\\CleanArchitecture.Core\\CleanArchitecture.Core.csproj"
             }
           }
         }

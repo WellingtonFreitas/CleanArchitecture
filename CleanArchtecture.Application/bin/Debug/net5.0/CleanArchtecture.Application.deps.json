@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CleanArchtecture.Application/1.0.0": {
+        "dependencies": {
+          "CleanArchitecture.Core": "1.0.0"
+        },
+        "runtime": {
+          "CleanArchtecture.Application.dll": {}
+        }
+      },
+      "CleanArchitecture.Core/1.0.0": {
+        "runtime": {
+          "CleanArchitecture.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CleanArchtecture.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArchitecture.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
